@@ -11,18 +11,19 @@
   "version": "2.27.0",
   "dependencies": {
     "@tryghost/content-api": "^1.2.11",
+    "attila": "github:zutrinken/attila#1.13.0",
+    "bleak": "github:zutrinken/bleak#1.4.0",
     "casper": "github:tryghost/Casper#2.10.6",
     "express": "^4.17.1",
     "ghost": "2.27.0",
+    "ghost-finder": "^3.0.1",
     "ghost-storage-adapter-s3": "^2.8.0",
-    "mysql": "^2.17.1",
     "liebling": "github:eddiesigner/liebling#v.0.6.4",
-    "attila": "github:zutrinken/attila#1.13.0",
-    "bleak": "github:zutrinken/bleak#1.4.0",
-    "the-shell": "github:mityalebedev/The-Shell#v2.0.0",
-    "vapor": "github:sethlilly/Vapor#v1.6.0",
+    "lyra": "github:tryghost/lyra",
+    "mysql": "^2.17.1",
     "pico": "github:tryghost/pico",
-    "lyra": "github:tryghost/lyra"
+    "the-shell": "github:mityalebedev/The-Shell#v2.0.0",
+    "vapor": "github:sethlilly/Vapor#v1.6.0"
   },
   "engines": {
     "node": "10.x"
