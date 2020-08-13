@@ -1,1 +1,1 @@
-web: npm start --production
+worker: npm start --production
