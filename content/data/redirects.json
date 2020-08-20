@@ -113,6 +113,11 @@
     "to": "/best-coursera-courses-certification/",
     "permanent": true
 },
+ {
+    "from": "/30-best-coursera-certification-courses-specializations-all-time/",
+    "to": "/best-coursera-courses-certification/",
+    "permanent": true
+},
 {
     "from": "/best-online-python-course/",
     "to": "/best-python-tutorials/",
@@ -210,6 +215,11 @@
 },
 {
     "from": "/best-online-design-thinking-courses/",
+    "to": "/best-design-thinking-courses/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-design-thinking/",
     "to": "/best-design-thinking-courses/",
     "permanent": true
 },
@@ -646,6 +656,66 @@
 {
     "from": "/top-tutorials-to-learn-wordpress-website-no-coding/amp/",
     "to": "/best-wordpress-courses/amp/",
+    "permanent": true
+},
+{
+    "from": "/best-apache-cordova-tutorial/",
+    "to": "/best-apache-cordova-tutorials/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-tensorflow-for-beginners/",
+    "to": "/best-tensorflow-tutorials/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-google-analytics-learn/amp/",
+    "to": "/best-google-analytics-courses/amp/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-seo-for-websites/",
+    "to": "/best-seo-courses/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-ruby-programming/amp/",
+    "to": "/best-ruby-on-rails-tutorials/amp/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-elastic-search/amp/",
+    "to": "/best-elasticsearch-course-online/amp/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-laravel-framework-for-php/amp/",
+    "to": "/best-laravel-tutorials/amp/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-python-programming/amp/",
+    "to": "/best-python-tutorials/amp/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-java-programming/amp/",
+    "to": "/best-java-tutorials/amp/",
+    "permanent": true
+},
+{
+    "from": "/best--apps-script-tutorials/",
+    "to": "/best-google-apps-script-tutorials/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-c-plus-plus-programming/",
+    "to": "/best-c-plus-tutorials/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-python-programming/",
+    "to": "/best-python-tutorials/",
     "permanent": true
 }
 ]
