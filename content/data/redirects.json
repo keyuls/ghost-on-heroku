@@ -717,5 +717,35 @@
     "from": "/top-tutorials-to-learn-python-programming/",
     "to": "/best-python-tutorials/",
     "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-c-plus-plus-programming/amp/",
+    "to": "/best-c-plus-tutorials/amp/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-java-programming/",
+    "to": "/best-java-tutorials/",
+    "permanent": true
+},
+{
+    "from": "/best-big-data-certifications%20/",
+    "to": "/best-big-data-certifications/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-laravel-framework-for-php/",
+    "to": "/best-laravel-tutorials/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-autocad/amp/",
+    "to": "/best-autocad-courses/amp/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-autocad/",
+    "to": "/best-autocad-courses/",
+    "permanent": true
 }
 ]
