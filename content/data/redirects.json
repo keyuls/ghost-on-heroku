@@ -747,5 +747,30 @@
     "from": "/top-tutorials-to-learn-autocad/",
     "to": "/best-autocad-courses/",
     "permanent": true
+},
+{
+    "from": "/best-arduino-tutorials/ \">/",
+    "to": "/best-arduino-tutorials/",
+    "permanent": true
+},
+{
+    "from": "/30-most-popular-coursera-courses-2019-specialization/most%20popular%20coursera%20courses/",
+    "to": "/best-coursera-courses-certification/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-design-thinking/amp/",
+    "to": "/best-design-thinking-courses/amp/",
+    "permanent": true
+},
+{
+    "from": "/top-tutorials-to-learn-elastic-search/",
+    "to": "/best-elasticsearch-course-online/",
+    "permanent": true
+},
+{
+    "from": "/database-engineering-courses/amp/",
+    "to": "/best-data-engineering-courses/amp/",
+    "permanent": true
 }
 ]
