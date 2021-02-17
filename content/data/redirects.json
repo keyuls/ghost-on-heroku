@@ -772,5 +772,10 @@
     "from": "/database-engineering-courses/amp/",
     "to": "/best-data-engineering-courses/amp/",
     "permanent": true
+},
+{
+    "from": "/cybersecurity-2/",
+    "to": "/best-cybersecurity-courses/",
+    "permanent": true
 }
 ]
